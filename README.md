@@ -167,10 +167,16 @@ pip install -r requirements.txt
 ### 📊 Dashboard Screenshots
 
 #### Main Interface
-![Dashboard Main](https://via.placeholder.com/800x400?text=Dashboard+Main)
+![Dashboard Main](images/HomePage.png)
 
-#### Farm Monitoring
-![Farm Monitoring](https://via.placeholder.com/800x400?text=Farm+Monitoring)
+#### Farm 1 Monitoring Dashboard
+![Farm 1 Dashboard](images/Farm1.png)
+
+#### Farm 2 Monitoring Dashboard
+![Farm 2 Dashboard](images/Farm2.png)
+
+#### Irrigation Management Overview
+![Irrigation Management](images/thingsboard.png)
 
 ### 📈 System Performance
 
@@ -180,16 +186,6 @@ pip install -r requirements.txt
 | Response Time | <500ms |
 | Accuracy | 95% |
 | Uptime | 99.9% |
-
----
-
-### 🤝 Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-### 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
