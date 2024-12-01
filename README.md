@@ -167,16 +167,16 @@ pip install -r requirements.txt
 ### 📊 Dashboard Screenshots
 
 #### Main Interface
-![Dashboard Main](images/HomePage.png)
+![Dashboard Main](Team_7/HomePage.png)
 
 #### Farm 1 Monitoring Dashboard
-![Farm 1 Dashboard](images/Farm1.png)
+![Farm 1 Dashboard](Team_7/Farm1.png)
 
 #### Farm 2 Monitoring Dashboard
-![Farm 2 Dashboard](images/Farm2.png)
+![Farm 2 Dashboard](Team_7/Farm2.png)
 
 #### Irrigation Management Overview
-![Irrigation Management](images/thingsboard.png)
+![Irrigation Management](Team_7/thingsboard.png)
 
 ### 📈 System Performance
 
